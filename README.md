@@ -10,8 +10,7 @@ The second part of this lab also involved binary classification with one key dif
 
 <h3>Lab 2 Bayesian Linear Regression</h3>
 
-<p>[...]</p>
+This lab uses **Bayesian regression** to **fit a linear model** of the form ![img](http://latex.codecogs.com/svg.latex?z%3Dax%2Bw) where ![img](http://latex.codecogs.com/svg.latex?w) is a Gaussian noise with a known mean and variance. The parameter ![img](http://latex.codecogs.com/svg.latex?a) is modelled as a **zero mean isotropic Gaussian random vector** and estimated by deriving the posterior distribution. The effects of varying the size of the training dataset was also studied by first, limiting the number of samples to 1, 5 and then 100.
 
 <h3>Lab 3 Hidden Markov Models</h3>
 
-<p>[...]</p>
